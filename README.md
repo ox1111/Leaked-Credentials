@@ -1,3 +1,5 @@
+## 악용시 본인책임
+
 To search for leaked credentials using Google Chrome's Developer Tools and regex, follow these short steps:
 
 1. **Open DevTools:** In Chrome, navigate to the site you're inspecting, then open Developer Tools with `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Option+I` (macOS).
